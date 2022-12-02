@@ -62,8 +62,8 @@ var emp = [{
     "salary": 16000,
     "Bonus": "A",
 }]
-ส๊า'
-ส๊า' เเพร
+ปลาย'
+panupong'jumroon 
 var sum1 = 0
 var sum4 = 0
 var sum5 = 0
